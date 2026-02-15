@@ -1,0 +1,5 @@
+{
+  "name": "Media Manager Portal",
+  "description": "Offline-first social media content management dashboard for agencies and clients featuring task tracking, calendar view, and asset management.",
+  "requestFramePermissions": []
+}
